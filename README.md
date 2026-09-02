@@ -29,9 +29,14 @@
 |  |
 | ------- |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0541-reverse-string-ii](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Counting
 |  |
 | ------- |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+## Two Pointers
+|  |
+| ------- |
+| [0541-reverse-string-ii](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
