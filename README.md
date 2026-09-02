@@ -20,11 +20,13 @@
 ## Array
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Hash Table
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 ## String
 |  |
@@ -51,5 +53,14 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+## Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
