@@ -5,18 +5,22 @@
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Array
 |  |
 | ------- |
