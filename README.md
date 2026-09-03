@@ -6,21 +6,25 @@
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Array
 |  |
 | ------- |
