@@ -30,6 +30,7 @@
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0941-valid-mountain-array](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
