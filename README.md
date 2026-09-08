@@ -76,6 +76,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0523-continuous-subarray-sum](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Pigeonhole Principle
