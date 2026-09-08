@@ -28,6 +28,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -73,6 +74,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0523-continuous-subarray-sum](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [3870-count-commas-in-range](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -84,4 +86,8 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0118-pascals-triangle) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
