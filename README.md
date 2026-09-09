@@ -35,6 +35,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0941-valid-mountain-array](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [1470-shuffle-the-array](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/1470-shuffle-the-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2942-find-words-containing-character](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -56,6 +57,7 @@
 | [0521-longest-uncommon-subsequence-i](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [1108-defanging-an-ip-address](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2942-find-words-containing-character](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
