@@ -83,6 +83,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0523-continuous-subarray-sum](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/3870-count-commas-in-range) |
