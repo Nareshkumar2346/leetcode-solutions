@@ -38,6 +38,7 @@
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2942-find-words-containing-character](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
@@ -47,6 +48,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## String
 |  |
 | ------- |
