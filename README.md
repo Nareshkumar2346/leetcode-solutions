@@ -49,6 +49,7 @@
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -57,10 +58,12 @@
 | [1108-defanging-an-ip-address](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2942-find-words-containing-character](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
