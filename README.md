@@ -39,6 +39,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2942-find-words-containing-character](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,4 +97,9 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0048-rotate-image) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
