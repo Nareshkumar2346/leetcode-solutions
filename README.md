@@ -37,6 +37,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -88,6 +89,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0713-subarray-product-less-than-k](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
