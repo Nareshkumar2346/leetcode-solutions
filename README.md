@@ -81,6 +81,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0713-subarray-product-less-than-k](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
@@ -135,4 +136,8 @@
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
