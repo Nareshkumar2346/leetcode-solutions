@@ -113,6 +113,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0338-counting-bits](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0338-counting-bits) |
 ## Matrix
 |  |
 | ------- |
@@ -143,4 +144,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0278-first-bad-version) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
