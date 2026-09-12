@@ -37,6 +37,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -87,6 +88,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -177,4 +179,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
