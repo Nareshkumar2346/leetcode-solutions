@@ -79,6 +79,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0541-reverse-string-ii) |
+| [0647-palindromic-substrings](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [1108-defanging-an-ip-address](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -100,6 +101,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0541-reverse-string-ii](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0541-reverse-string-ii) |
+| [0647-palindromic-substrings](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 | [0042-trapping-rain-water](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0647-palindromic-substrings](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Matrix
 |  |
 | ------- |
