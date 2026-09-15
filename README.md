@@ -74,6 +74,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0541-reverse-string-ii) |
