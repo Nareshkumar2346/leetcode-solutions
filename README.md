@@ -74,6 +74,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -92,6 +93,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -130,6 +132,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0338-counting-bits) |
@@ -192,4 +195,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
