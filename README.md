@@ -18,6 +18,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -53,6 +54,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -68,6 +70,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
