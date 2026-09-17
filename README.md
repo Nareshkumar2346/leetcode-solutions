@@ -174,6 +174,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 ## Interactive
 |  |
 | ------- |
