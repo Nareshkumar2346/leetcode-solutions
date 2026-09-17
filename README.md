@@ -62,6 +62,7 @@
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3925-concatenate-array-with-reverse](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -207,4 +208,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Simulation
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
