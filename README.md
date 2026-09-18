@@ -134,6 +134,7 @@
 | [0048-rotate-image](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0523-continuous-subarray-sum](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -191,6 +192,7 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0338-counting-bits) |
+| [1486-xor-operation-in-an-array](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
