@@ -55,6 +55,7 @@
 | [1470-shuffle-the-array](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [1929-concatenation-of-array](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -212,5 +213,6 @@
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
