@@ -47,6 +47,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0217-contains-duplicate](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -162,6 +164,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
