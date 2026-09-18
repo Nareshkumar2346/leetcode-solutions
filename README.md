@@ -51,6 +51,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0941-valid-mountain-array](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0941-valid-mountain-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -130,6 +131,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0523-continuous-subarray-sum](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Nareshkumar2346/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
